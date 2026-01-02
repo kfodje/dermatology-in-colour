@@ -28,7 +28,7 @@ Dermatology in Colour is a database of illustrated references of common dermatol
 
 ## Contributing
 
-Contributions are welcome! If you want to add a condition, suggest edits, or provide additional illustrations, please submit a pull request or open an issue. All contributions must comply with the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+- Contributions are welcome! If you want to add a condition, suggest edits, or provide additional illustrations, please submit a pull request or open an issue. All contributions must comply with the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 ---
 ## Contact
 
