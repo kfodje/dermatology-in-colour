@@ -3,6 +3,7 @@
 Welcome! This site provides illustrations of dermatological conditions on diverse skin tones to support medical education and diagnosis.
 
 ---
+## [List of Conditions](https://kfodje.github.io/dermatology-in-colour/conditions/)
 ## License
 
 This project is licensed under the Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International License [(CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
