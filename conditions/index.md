@@ -1,3 +1,3 @@
 # Conditions
-[Eczema](eczema.md)
-[Psoriasis](psoriasis.md)
+[Eczema](eczema.md)  
+[Psoriasis](psoriasis.md)  
