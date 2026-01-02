@@ -20,7 +20,7 @@ Dermatology in Colour is a database of illustrated references of common dermatol
 
 ## How to Use
 
-- Browse the site via [GitHub Pages](https://your-username.github.io/dermatology-in-colour/)
+- Browse the site via [GitHub Pages](https://kfodje.github.io/dermatology-in-colour/)
 - Use illustrations for personal study or teaching
 - Cite the project when using in presentations or educational materials
 
