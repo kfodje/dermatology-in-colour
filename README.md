@@ -32,7 +32,7 @@ Dermatology in Colour is a database of illustrated references of common dermatol
 ---
 ## Contact
 
-For questions or collaborations, reach out via GitHub @kfodje
+- For questions or collaborations, reach out via GitHub @kfodje
 ---
 ## License
 
